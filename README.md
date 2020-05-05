@@ -1,10 +1,13 @@
 AVS or Artist, Venue, Show
 -----
 ### Introduction
+This application provides an interface to store and update artist, venues, and shoes in a locally hosted database. It allows you to view,search,and store detailed information on these three lists.
+
 This project was part of the Udacity FSND program. In it's current state `9b7163ca5740885675202f4dc975d6b65267b2cb` the project was reviewed and marked as meeting project rubric guidelines.
 
 ### Future Improvement Ideas
 * I would like to implement form validation when submitting new artists, venues, and shows
+* Make artists unavalaible to be added to a new show if already booked for a specific time slot
 
 ### Development Setup
 
