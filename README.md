@@ -1,7 +1,7 @@
 AVS or Artist, Venue, Show
 -----
 ### Introduction
-This project was part of the Udacity FSND program. In it's current state Rev XXX the project was reviewed and marked as meeting project rubric guidelines.
+This project was part of the Udacity FSND program. In it's current state `9b7163ca5740885675202f4dc975d6b65267b2cb` the project was reviewed and marked as meeting project rubric guidelines.
 
 ### Future Improvement Ideas
 * I would like to implement form validation when submitting new artists, venues, and shows
